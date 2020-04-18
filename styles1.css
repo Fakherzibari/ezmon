@@ -17,7 +17,7 @@ div.gallery1 {
   float: left;
   width: 600px;
   height: 400px;
-  padding-left: 100px;
+  padding-left: 43%;
   padding-top: 100px;
 }
 
@@ -34,7 +34,8 @@ div.desc {
   padding: 15px;
   text-align: center;
 }
-div.desc1{
+
+div.desc1 {
   padding-left: 350px;
   text-align: center;
 }
@@ -52,10 +53,32 @@ hr {
 }
 
 footer {
-  padding-left: 50%
+  padding-left: 50%;
+  padding-top:50%;
 }
-.coming{ padding-left: 40%;
+
+.coming {
+  padding-left: 40%;
 }
-p{
+
+p {
   padding-right: 150px;
+}
+
+button {
+  cursor: pointer;
+  float: left;
+  margin-top: 250px;
+}
+
+.button2 {
+  background-color: #008CBA;
+  width: 50%;
+  height: 200px
+}
+
+.button1 {
+  background-color: #4CAF50;
+  width: 50%;
+  height: 200px;
 }
