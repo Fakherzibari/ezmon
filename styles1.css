@@ -3,6 +3,7 @@ body {
   font-family: "Montserrat-Black";
   font-size: 1rem;
   line-height: 1.5;
+  font-weight: bold;
 }
 
 div.gallery {
