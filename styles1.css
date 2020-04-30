@@ -22,6 +22,9 @@ div.gallery1 {
   padding-top: 100px;
 }
 
+
+
+
 div.gallery:hover {
   border: 1px solid #777;
 }
@@ -85,3 +88,24 @@ button {
   width: 50%;
   height: 200px;
 }
+.button3 {
+  width: 250px;
+}
+
+
+
+
+.btn-group button3 {
+  background-color: #808B96; /* Green background */
+  border: 1px solid #979A9A; /* Green border */
+  color: Black; /* White text */
+  padding: 10px 24px; /* Some padding */
+  cursor: pointer; /* Pointer/hand icon */
+  width: 250px; /* Set a width if needed */
+  display:inline-block;; /* Make the buttons appear below each other */
+  text-align: center;
+  margin: 4px 2px;
+
+}
+.btn-group button3:hover {
+  background-color: #D5D8DC;
