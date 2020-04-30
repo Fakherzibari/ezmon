@@ -102,7 +102,7 @@ button {
   padding: 10px 24px; /* Some padding */
   cursor: pointer; /* Pointer/hand icon */
   width: 250px; /* Set a width if needed */
-  display:inline-block;; /* Make the buttons appear below each other */
+  display:inline-block; /* Make the buttons appear below each other */
   text-align: center;
   margin: 4px 2px;
 
