@@ -63,10 +63,7 @@ hr {
   border-width: 7px;
 }
 
-.footer {
-  padding-left: 40%;
-padding-top: 20px;
-}
+
 
 .coming {
   padding: center;
@@ -120,12 +117,19 @@ button {
 }
 
 .btn-group button3:hover {
-  background-color: #D5D8DC;
+  background-color: #D5D8DC;}
 
   /* test-homepage */
-  #title {
-    background-color: #ff4c68;
-    color: white;
+.qoute {
+  width: 250px;
+  height:150px;
+margin:50px 200px 0 0 ;
+}
+  .title {
+    color:Black;
+    padding-top: 50px;
+    text-align: right;
+    size:3rem;
   }
 
   .container-fluid {
@@ -146,7 +150,10 @@ button {
   .nav-item {
     padding: 0 18px;
   }
-
+  .footer {
+    padding-left: 40%;
+  padding-top: 20px;
+  }
   .nav-link {
     font-size: 1.2rem;
     font-family: "Montserrat-light";
@@ -157,4 +164,7 @@ button {
     margin: 5% 3% 5% 0;
     padding: 15%;
 
+  }
+  .Copyright {
+    color: Black;
   }
