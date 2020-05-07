@@ -140,6 +140,7 @@ button {
 .navbar {
   padding: 0 0 4.5rem;
   color: #ff4c68;
+  padding-bottom: 0;
 }
 
 .navbar-brand {
@@ -152,7 +153,10 @@ button {
 }
 
 .footer {
-  margin-top: 50px;
+  margin-top: 150px;
+  text-align: center;
+
+display: block inline-flex;
 }
 
 .nav-link {
